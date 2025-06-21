@@ -17,6 +17,7 @@ This is a simple C++ console game that demonstrates core turn-based combat logic
   - `(a)` Attack the enemy
   - `(b)` Block the next attack
   - `(q)` Quit the game
+  - Any other input results in your turn being skipped
 - The enemy always attacks on its turn.
 - Survive and reduce the goblin’s HP to 0 **or** trigger the fear ending by blocking five times.
 
